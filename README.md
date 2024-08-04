@@ -17,7 +17,7 @@
 - Make sure to request $SWTR Faucet from [this site](https://faucet.testnet.swisstronik.com/)
 - Paste the below command in terminal
 ```bash
-wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/simple-contract.sh && chmod +x simple-contract.sh && ./simple-contract.sh
+wget https://raw.githubusercontent.com/Dropxtor/Swisstronic-Script/main/simple-contract.sh && chmod +x simple-contract.sh && ./simple-contract.sh
 ```
 - Now visit [Testnet Website](https://www.swisstronik.com/testnet2/dashboard) to submit your deployed `Contract address` and `Github Repository Link`
 ### Task 2 : Minting ERC20 Token Script
@@ -37,7 +37,7 @@ wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/simple-c
 - Make sure to request $SWTR Faucet from [this site](https://faucet.testnet.swisstronik.com/)
 - Paste the below command in terminal
 ```bash
-wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc20-token.sh && chmod +x erc20-token.sh && ./erc20-token.sh
+wget https://raw.githubusercontent.com/Dropxtor/Swisstronic-Script/main/erc20-token.sh && chmod +x erc20-token.sh && ./erc20-token.sh
 ```
 - Now visit [Testnet Website](https://www.swisstronik.com/testnet2/dashboard) to submit your Token `Contract address`, `Transfer Hash` and `Github Repository Link`
 ### Task 3 : Minting ERC721 Token Script
@@ -57,6 +57,6 @@ wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc20-to
 - Make sure to request $SWTR Faucet from [this site](https://faucet.testnet.swisstronik.com/)
 - Paste the below command in terminal
 ```bash
-wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc721-nft.sh && chmod +x erc721-nft.sh && ./erc721-nft.sh
+wget https://raw.githubusercontent.com/Dropxtor/Swisstronic-Script/main/erc721-nft.sh && chmod +x erc721-nft.sh && ./erc721-nft.sh
 ```
 - Now visit [Testnet Website](https://www.swisstronik.com/testnet2/dashboard) to submit your Token `NFT Contract address`, `Minting Hash URL` and `Github Repository Link`
